@@ -1,0 +1,3 @@
+WEIGHT:11
+weight:9 3 10 8 1 
+value:5 5 9 10 7 
